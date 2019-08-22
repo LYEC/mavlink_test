@@ -1,3 +1,11 @@
+/*
+ *       II         II     II     IIIIIII      IIIIIIII
+ *       II          II   II      II          II
+ *       II           IIII        IIIIIII     II
+ *       II            II         II          II
+ *       IIIIII        II         IIIIIII      IIIIIIII       
+ */
+ 
 #ifndef lyec_lib_h
 #define lyec_lib_h
 
