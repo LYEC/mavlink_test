@@ -1,3 +1,11 @@
+/*
+ *       II         II     II     IIIIIII      IIIIIIII
+ *       II          II   II      II          II
+ *       II           IIII        IIIIIII     II
+ *       II            II         II          II
+ *       IIIIII        II         IIIIIII      IIIIIIII       
+ */
+
 #include "lyec_lib.h"
 #include <SoftwareSerial.h>
 SoftwareSerial lyec_seriall(8,9);
