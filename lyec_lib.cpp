@@ -1,3 +1,11 @@
+/*
+ *       II         II     II     IIIIIII      IIIIIIII
+ *       II          II   II      II          II
+ *       II           IIII        IIIIIII     II
+ *       II            II         II          II
+ *       IIIIII        II         IIIIIII      IIIIIIII          
+ */
+
 #include "lyec_lib.h"
 
 unsigned long lyec_millis_p = 0;
